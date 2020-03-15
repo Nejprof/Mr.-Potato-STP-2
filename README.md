@@ -1,2 +1,2 @@
 # Mr. Potato STP 2
-Beta Builds &amp; Source Codes on GitHub
+On this repository, I will release beta build to upcoming Mr. Potato: Solves the Puzzles 2!
